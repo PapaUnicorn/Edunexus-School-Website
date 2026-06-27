@@ -1,0 +1,18 @@
+{
+    "sekolah_nama": "Sekolah Nusantara Mandiri",
+    "npsn": "12345678",
+    "logo_url": "assets\/images\/logo-sekolah.png",
+    "warna_brand": "#0065a3",
+    "status_maintenance": "false",
+    "tema_aktif": "tema-minimalis",
+    "social": {
+        "facebook": "https:\/\/facebook.com",
+        "instagram": "https:\/\/instagram.com",
+        "youtube": "https:\/\/youtube.com",
+        "tiktok": ""
+    },
+    "api": {
+        "blogger_id": "MASUKKAN_BLOG_ID_DI_SINI",
+        "blogger_key": "MASUKKAN_API_KEY_DI_SINI"
+    }
+}

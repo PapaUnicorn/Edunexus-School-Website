@@ -1,0 +1,40 @@
+{
+    "headline": "Penerimaan Peserta Didik Baru (PPDB) Tahun Ajaran 2026\/2027",
+    "deskripsi": "Mari bergabung bersama Sekolah Nusantara Mandiri, pusat unggulan pendidikan vokasi siber dan kreatif. Daftarkan diri Anda secara online untuk mengamankan kuota gelombang pertama.",
+    "alur_pendaftaran": [
+        {
+            "step": "1",
+            "title": "Registrasi Online",
+            "description": "Mengisi data diri calon siswa pada formulir registrasi online melalui portal PPDB resmi."
+        },
+        {
+            "step": "2",
+            "title": "Verifikasi Dokumen",
+            "description": "Membawa berkas persyaratan fisik (ijazah, KK, akta lahir) ke sekolah untuk proses verifikasi panitia."
+        },
+        {
+            "step": "3",
+            "title": "Tes Kompetensi Dasar",
+            "description": "Mengikuti ujian penyaringan minat bakat akademis secara digital di laboratorium komputer sekolah."
+        },
+        {
+            "step": "4",
+            "title": "Daftar Ulang &amp;amp; Orientasi",
+            "description": "Pendaftaran ulang administrasi, pengukuran seragam sekolah, dan mengikuti masa pengenalan lingkungan sekolah."
+        }
+    ],
+    "persyaratan": [
+        "Mengisi Formulir Pendaftaran online atau offline.",
+        "",
+        "Fotokopi Ijazah \/ Surat Keterangan Lulus (SKL) SMP\/MTs yang telah dilegalisir (2 lembar).",
+        "",
+        "Fotokopi Kartu Keluarga (KK) dan Akta Kelahiran (2 lembar).",
+        "",
+        "Pasfoto terbaru hitam-putih dan berwarna ukuran 3x4 dan 4x6 (masing-masing 3 lembar).",
+        "",
+        "Fotokopi Rapor Semester 1 - 5 SMP\/MTs."
+    ],
+    "status_pendaftaran": "tutup",
+    "cta_link": "",
+    "syarat_html": "<p>Mengisi Formulir Pendaftaran online atau offline.<\/p><p><br><\/p><p>Fotokopi Ijazah \/ Surat Keterangan Lulus (SKL) SMP\/MTs yang telah dilegalisir (2 lembar).<\/p><p><br><\/p><p>Fotokopi Kartu Keluarga (KK) dan Akta Kelahiran (2 lembar).<\/p><p><br><\/p><p>Pasfoto terbaru hitam-putih dan berwarna ukuran 3x4 dan 4x6 (masing-masing 3 lembar).<\/p><p><br><\/p><p>Fotokopi Rapor Semester 1 - 5 SMP\/MTs.<\/p>"
+}

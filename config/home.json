@@ -1,0 +1,73 @@
+{
+    "hero_banner": {
+        "image_url": "assets\/images\/banner-utama.jpg",
+        "headline": "Membangun Generasi Unggul dan Berkarakter",
+        "sub_hero": "Penerimaan Siswa Baru Tahun Ajaran 2026\/2027",
+        "cta_text": "Informasi PPDB",
+        "cta_link": "?page=ppdb"
+    },
+    "kepala_sekolah": {
+        "nama": "Glanny Ellyas Bolang, S.Pd., MAED.",
+        "peran": "Kepala Sekolah",
+        "foto": "assets\/images\/principal_photo.jpg",
+        "sambutan": "Pendidikan adalah senjata paling ampuh yang bisa Anda gunakan untuk mengubah dunia. Di lembaga kami, kami berkomitmen membentuk ekosistem siber terbaik untuk mempersiapkan putra-putri Anda menyambut tantangan era modern."
+    },
+    "quick_links": [
+        {
+            "icon": "bi-laptop",
+            "title": "Portal Akademik",
+            "url": "https:\/\/sis.sekolah.sch.id"
+        },
+        {
+            "icon": "bi-file-earmark-text",
+            "title": "Pendaftaran",
+            "url": "?page=ppdb"
+        },
+        {
+            "icon": "bi-calendar3",
+            "title": "Jadwal",
+            "url": "?page=academic"
+        }
+    ],
+    "stats": {
+        "siswa_aktif": 850,
+        "guru_staf": 45,
+        "ekstrakurikuler": 12,
+        "alumni": 3200
+    },
+    "local_news": [
+        {
+            "title": "Pelepasan Siswa Angkatan XV Tahun 2026",
+            "date": "2026-06-15",
+            "image": "assets\/images\/placeholder.jpg",
+            "summary": "Pelepasan siswa berlangsung khidmat dihadiri orang tua dan jajaran komite sekolah."
+        },
+        {
+            "title": "Pendaftaran Gelombang 2 PPDB Dibuka",
+            "date": "2026-06-01",
+            "image": "assets\/images\/placeholder.jpg",
+            "summary": "Penerimaan peserta didik baru gelombang kedua resmi dibuka hingga akhir Juli 2026."
+        },
+        {
+            "title": "Prestasi Juara 1 Lomba Web Design Tingkat Provinsi",
+            "date": "2026-05-20",
+            "image": "assets\/images\/placeholder.jpg",
+            "summary": "Siswa kami berhasil memboyong piala gubernur dalam kompetisi desain web tingkat regional."
+        },
+        {
+            "title": "Sosialisasi Bahaya Narkoba & Siber",
+            "date": "2026-05-10",
+            "image": "assets\/images\/placeholder.jpg",
+            "summary": "Bekerja sama dengan BNN mengadakan edukasi preventif bagi siswa kelas X dan XI."
+        }
+    ],
+    "hero_slides": [
+        {
+            "image_url": "assets\/images\/banner-utama.jpg",
+            "headline": "Membangun Generasi Unggul dan Berkarakter",
+            "sub_hero": "Penerimaan Siswa Baru Tahun Ajaran 2026\/2027",
+            "cta_text": "Informasi PPDB",
+            "cta_link": "?page=ppdb"
+        }
+    ]
+}

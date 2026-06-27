@@ -1,0 +1,73 @@
+{
+    "kurikulum_desc": "Kurikulum Sekolah Nusantara Mandiri dirancang untuk menyelaraskan keahlian akademis dengan kebutuhan industri siber dan kreatif modern. Kami menerapkan pembelajaran berbasis proyek (Project-Based Learning) yang membiasakan siswa memecahkan masalah nyata.",
+    "calendar_url": "",
+    "majors": [
+        {
+            "name": "Pengembangan Perangkat Lunak &amp; Gim (PPLG)",
+            "description": "Mempelajari coding, pembuatan aplikasi web, mobile, desktop, serta pembuatan game 2D dan 3D menggunakan standar teknologi industri.",
+            "icon": "bi-code-slash"
+        },
+        {
+            "name": "Teknik Jaringan Komputer &amp; Telekomunikasi (TJKT)",
+            "description": "Fokus pada perancangan jaringan, konfigurasi server, administrasi cloud, fiber optik, dan keamanan infrastruktur siber.",
+            "icon": "bi-cpu-fill"
+        },
+        {
+            "name": "Desain Komunikasi Visual (DKV)",
+            "description": "Mempelajari desain grafis, ilustrasi, videografi, fotografi, 3D modelling, brand identity, dan periklanan digital.",
+            "icon": "bi-palette-fill"
+        }
+    ],
+    "facilities": [
+        {
+            "name": "Laboratorium Komputer &amp; IoT",
+            "image": ""
+        },
+        {
+            "name": "Studio Produksi DKV &amp; Podcast",
+            "image": ""
+        },
+        {
+            "name": "Perpustakaan Digital",
+            "image": ""
+        },
+        {
+            "name": "Koneksi Wifi Siber Cepat",
+            "image": ""
+        }
+    ],
+    "extracurriculars": [
+        {
+            "name": "Siber Security Club (Cyber Sec)",
+            "schedule": "Sabtu, 09:00 WIB",
+            "image": ""
+        },
+        {
+            "name": "Coding &amp; Robotics Community",
+            "schedule": "Sabtu, 11:00 WIB",
+            "image": ""
+        },
+        {
+            "name": "Paskibra &amp; Kepemimpinan",
+            "schedule": "Rabu, 15:30 WIB",
+            "image": ""
+        },
+        {
+            "name": "Palang Merah Remaja (PMR)",
+            "schedule": "Kamis, 15:30 WIB",
+            "image": ""
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Juara 1 Lomba Web Design Provinsi",
+            "year": 2026,
+            "image": ""
+        },
+        {
+            "title": "Juara 2 Lomba IoT Nasional",
+            "year": 2025,
+            "image": ""
+        }
+    ]
+}
